@@ -9,5 +9,5 @@
    
 ---
 - Big-O gösterimini yazınız.
-  O(6*(log6))
+ >O(6*(log6))
 
